@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reading Quakers vindicated from false aspersions; shewing that unneighbourly proceedings is no testimony of Christianity or real Quakers, but destructive to Christian society</title>
+            <author>Curtis, Thomas, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81196</idno>
+            <idno type="STC">Wing C7691A</idno>
+            <idno type="STC">ESTC R231362</idno>
+            <idno type="EEBO-CITATION">99897281</idno>
+            <idno type="PROQUEST">99897281</idno>
+            <idno type="VID">136999</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81196)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136999)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2479:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reading Quakers vindicated from false aspersions; shewing that unneighbourly proceedings is no testimony of Christianity or real Quakers, but destructive to Christian society</title>
+                  <author>Curtis, Thomas, 17th cent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated at end: Reading, 19th 9th month, 1696. Thomas Curtis, William Soundey, Benjamin Coales.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:136999:1" rendition="simple:additions"/>
+            <head>
+               <hi>The Reading Quakers</hi> Vindicated from Falſe Aſperſions; SHEWING That Unneighbourly Proceedings is no Teſtimony of Chriſtianity or real Qua<g ref="char:EOLhyphen"/>kers, but deſtructive to Chriſtian Society.</head>
+            <epigraph>
+               <q>Thou ſhalt not raiſe a falſe Report; put not thy Hand to be an un<g ref="char:EOLhyphen"/>righteous Witneſs,
+<bibl>
+                     <hi>Exod. 23.1.</hi>
+                  </bibl>
+               </q>
+               <q>Let the Proud be aſhamed, for they have dealt perverſly with me with<g ref="char:EOLhyphen"/>out a Cauſe; but I will meditate in thy Precepts,
+<bibl>
+                     <hi>Pſal. 119.78.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <p>WHereas there is a Printed Sheet induſtriouſly ſpread, called, <hi>The Chriſtian Teſtimony of ſome called Quakers at</hi> Reading <hi>in</hi> Berkſhire, <hi>to ſome Fundamental Truths of the Chriſtian Religion; containing</hi> 12 <hi>Queries and Anſwers (and a Copy of a Letter) ſign'd by</hi> George Jaques, William Paine <hi>and</hi> Robert Sandiland, <hi>againſt ſome Preachers at</hi> Reading, <hi>called Quakers;</hi> wherein they tell their Reader a Story of the ſaid Preachers, that they refuſed to give them an Anſwer to their ſaid Queries, ſent to <hi>Tho. Curtis, William Soundey</hi> and <hi>Benjamin Coales,</hi> above a Month ago.
+<pb n="2" facs="tcp:136999:2"/>Now was it ſuch a great Crime, to deſerve to be thus expos'd in Print, and that their own Friends and near Neighbors too, on purpoſe to render them no Chriſtians, becauſe they had not an Anſwer in that time? Let all ſober People judge in this Matter.</p>
+            <p>Again they ſay, They had threatning, uncivil Language given them, and were denied a Meeting of publick Conference. As to this they do very ill to charge <hi>T.C. W.S.</hi> and <hi>B.C.</hi> after this manner, it being utterly falſe that ever, to their know<g ref="char:EOLhyphen"/>ledge, they did give them any uncivil Language; and as to a Meeting of Conference, we may ſay more in what follows: But they go on, and tell of diſorderly Oppoſition and Confu<g ref="char:EOLhyphen"/>ſion in the publick Meeting-houſe, the 27th <hi>Septemb.</hi> 1696. This alſo is very unfair, to charge the Three Preachers above mentioned withal, for Two of them were out of Town that Day; and as for <hi>W.S.</hi> how can they, with any Face of Ho<g ref="char:EOLhyphen"/>neſty, charge him with it? Had <hi>Robert Sandiland</hi> been ſo innocent and peaceable, there would have been no ſuch Diſ<g ref="char:EOLhyphen"/>order that Day, nor at other times.</p>
+            <p>And as for their Charge againſt the three accuſed Perſons, as that they were unfound in Doctrin; we never heard any ſuch Complaint until of late our Oppoſers took Offence, and watched to get occaſion againſt them to beſpatter them and other Friends, and then make a Man an Offender if he did but miſtake a Word; which is very Unchriſtian-like.</p>
+            <p>But the beginning of this Fraction, and of their taking this Courſe, was this: When <hi>George Keith</hi> came to <hi>Reading, George Jaques</hi> and ſome others affecting him, entertain'd ſome hard Thoughts againſt ſeveral Friends, thinking they did not well like him, and that we were not kind enough to him; for be<g ref="char:EOLhyphen"/>fore he came we lived in much Love, as on a religious Score: Then ſeveral eſpouſing his Cauſe, began to diſcourſe much of him and his Notions, until at length they began to be very hot and contentious, notwithſtanding Friends have indeavoured to perſuade them, that there was not ſo much difference as to thoſe things (which they call eſſential Principles) between
+<pb n="3" facs="tcp:136999:2"/>them and us, but for want of a right Underſtanding of each other (which is no juſt ground for them to make this Clamor) for at ſome Conferences, where things were moderately diſ<g ref="char:EOLhyphen"/>courſed, ſome of them, <hi>G. J.</hi> by Name, ſeem'd to be pleas'd that we ſo well agreed; afterwards, they ſent thoſe Queries mentioned, which Friends never refuſed to anſwer: They ſay they were ſent above a Month ago; which ſhews that they were in great haſte to Print, that they could ſtay no longer: Thoſe Queries then were as induſtriouſly ſpread in Writing, and that before two of the accuſed Perſons had ſo much as read them; for one of them had not ſeen them before they were ſpread far and near: Then they were earneſt for an Anſwer, which was never refuſed, but as opportunity offered Friends gave them the beſt Satisfaction they could by Words, Face to Face, as looking on that to be the moſt Friend-like to open our Hearts one to another, than to write Papers, living ſo near one to another, and familiar Friends, (which practice hath been very hurtful;) but nothing would ſerve a hungry Mind after Contention, but we muſt write an Anſwer to their Que<g ref="char:EOLhyphen"/>ries, tho' Friends had ſpoken to moſt of them, which in effect was according to their own Poſitions, and agreeable to Scripture.</p>
+            <p>And as for their Challenge to give them a Meeting of pub<g ref="char:EOLhyphen"/>lick Conference; and to this we are required to give an An<g ref="char:EOLhyphen"/>ſwer in a ſhort time, becauſe (as may be ſuppoſed) they were in great haſte to bring forth this printed Sheet to make them<g ref="char:EOLhyphen"/>ſelves Popular, that they might ſet up a Meeting by them<g ref="char:EOLhyphen"/>ſelves; <hi>Thomas Curtis</hi> and <hi>Benjamin Coales</hi> made this Propoſition to <hi>G. Jaques,</hi> &amp;c. That at any time they would meet them Two and Two at a time, where they pleaſed, if it were every Day (except any thing more than ordinary of Buſineſs ſhould happen to prevent) till they had indeavoured to ſatisfie every one of them that was diſatisfied, excepting againſt none but <hi>Robert Sandiland,</hi> whom we have juſt ground to object againſt; for he that ſeems to be Religious and bridles not his Tongue,
+<pb n="4" facs="tcp:136999:3"/>it is but Vanity; and he that may be called a Quaker, or pre<g ref="char:EOLhyphen"/>tends to be one, and yet have the Impudence to ſay, <hi>That if he had known the Quakers had held ſuch Things, he would as ſoon have put <hi>his Head in the Fire</hi> as joined with them:</hi> Surely ſuch a one is not fit to be a Preacher among a People, whom he ſo unworthily vilifies. More might be ſaid, but we ſhall forbear at preſent.</p>
+            <p>It may be obſerved that <hi>G. Jaques,</hi> &amp;c. to whom <hi>T. C.</hi> &amp;c. made the laſt Propoſition, ſeem'd willing to comply therewith to meet Two and Two at a time; but when they had con<g ref="char:EOLhyphen"/>ferred (as we ſuppoſe with <hi>R. S.</hi> and his Wife) they returned an Anſwer, <hi>That they did not except of our Propoſition;</hi> and ſo they went on to finiſh a Meeting-place, and ſet up for them<g ref="char:EOLhyphen"/>ſelves in <hi>Gutter Lane.</hi> And then their Agent <hi>John Knapp</hi> was very diligent to give abroad the printed Sheet, who hath ill requited his Friends for their Kindneſs to him in time of Need. But we are heartily ſorry for them, eſpecially thoſe that are honeſt-hearted, who are betrayed, and are going they know not whither, being liſted up in their own Imaginations above the Simplicity of that Truth, which will out-live all thoſe that oppoſe the Work of the Lord, and his Servants therein.</p>
+            <closer>
+               <dateline>
+                  <hi>From a Monthly Meeting held at the Meeting-houſe in</hi> Sun Lane <hi>in</hi> Reading, <date>27th 9th <hi>Month,</hi> 1696.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="creed">
+            <head>As we believe we ſpeak; first hear, and then judge charitably of what we ſay.</head>
+            <p>IT was the Saying of wiſe <hi>Solomon, That in making many Books, there is no end,</hi> &amp;c. And if every one ſhould Write or Print what they believe is true Religion, it were the way to fill the World with Books. Many Teſtimonies have been
+<pb n="5" facs="tcp:136999:3"/>publiſhed by particular Friends of their Faith, and alſo in a general way, of our Belief who are called Quakers, concern<g ref="char:EOLhyphen"/>ing the Principles of True Religion, at ſundry times; yet ſo unhappy is the Age in which we live, that ſome that are Contentious will not believe: However, for the Sakes of others, we have this to ſay in theſe following Particulars.</p>
+            <p n="1">I. We do ſincerely believe, That there is but one only true and living God, who is a Spirit, the Creator and Upholder of all Things by the Word of his Eternal Power, who is Infinite and Incomprehenſible in himſelf; and all Words of Men and Angels cannot define him as he is, being in all, through all, and over all bleſſed for ever, whom all ought to fear and dread.</p>
+            <p n="2">II. We ſincerely believe in our Lord Jeſus Chriſt, both as he was the eternal Son of God from the beginning, glorified with the Father before the World began, and alſo as he was the promiſed Seed ſpoken of, <hi>Gen.</hi> 3.15. <hi>The Seed of the Wo<g ref="char:EOLhyphen"/>man ſhall bruiſe the Serpents Head;</hi> which the Prophet <hi>Iſaiah</hi> pointed at, <hi>Iſa.</hi> 7.14. <hi>Behold a Virgin ſhall be with Child and bring forth a Son, and (thou O Virgin) ſhalt call his Name Im<g ref="char:EOLhyphen"/>manuel; which being interpreted is God with us:</hi> Which in due time was born of the Virgin <hi>Mary</hi> at <hi>Bethlehem</hi> in the Land of <hi>Judea,</hi> Mat. 2.15.</p>
+            <p n="3">III. We believe, That the Man Chriſt Jeſus, according to the Fleſh, was the Seed of <hi>Abraham,</hi> to which the Promiſe was made, <hi>That in him</hi> (to wit Chriſt) <hi>all Nations of the Earth ſhould be bleſſed,</hi> Gen. 22.18. <hi>Who was the Son of Abraham, and the Son of David,</hi> &amp;c. Mat. 1.1.</p>
+            <p n="4">IV. We believe, That the Man Chriſt Jeſus had a real Soul that was not the Godhead, and a real Body that was not the Godhead; but in a moſt holy and myſtical Union of the Divinity and Humanity in One, better known and underſtood through a living Faith in our Lord Jeſus Chriſt, than to be expreſſed in Words, <hi>Pſal.</hi> 16.10. <hi>Acts</hi> 2.27.</p>
+            <p n="5">V. We alſo believe, That the ſame Chriſt Jeſus that was born of the Virgin, was the Son of God, having no imme<g ref="char:EOLhyphen"/>diate Father but God, <hi>Luke</hi> 1.35. <hi>Jo.</hi> 1.39.</p>
+            <pb n="6" facs="tcp:136999:4"/>
+            <p n="6">VI. We do believe, That Jeſus Chriſt, as to his Human Nature, was in all things like unto us, except Sin; yet the fulneſs of the Godhead dwelt in him Bodily: He was both God and Man and yet but One Chriſt, the Nature of the Manhood being moſt gloriouſly united with his Godhead, according to <hi>Tim.</hi> 2.5. <hi>Heb.</hi> 2.16. And to this we may add that Saying of the Apoſtle, 1 <hi>Pet.</hi> 1.8. <hi>Whom having not ſeen ye love; in whom though ye ſee him not, yet believing ye rejoice with Joy unſpeakable and full of Glory.</hi>
+            </p>
+            <p n="7">VII. We do verily believe, That Chriſt's Body that died on the Croſs and was laid in the Sepulchre, did riſe again the Third Day, and that he aſcended up into Heaven after his Reſurrection, according to the Scriptures: And that Heaven into which Chriſt hath aſcended in the moſt glorified Nature of Man, is above the Earth, a Place of unexpreſſible Glory with his Father: And as he that dwells in Heaven is unlimi<g ref="char:EOLhyphen"/>table, ſo is the Place of his Habitation above the reach of the carnal Mind to define where it is; yet meaſurably we poor Mortals taſte of it here on Earth, ſo that we believe it is not included in us, nor excluded from the Regenerate; Chriſt is Lord of Heaven, yet as to his Godhead he is meaſu<g ref="char:EOLhyphen"/>rably within us, by his Grace, Light and Spirit; <hi>For he that hath not the Spirit of Christ, is none of his.</hi>
+            </p>
+            <p n="8">VIII. We are juſtified and cleanſed from Sin by the preci<g ref="char:EOLhyphen"/>ous Blood of Jeſus Chriſt, that was outwardly ſhed; and we are ſanctified by that precious Blood, through the Spirit of God that dwelleth in us, 1 <hi>Cor.</hi> 6.11.</p>
+            <p n="9">IX. We believe, That it is neceſſary for all to believe in Chriſt Jeſus, as he came outwardly for our Eternal Salvation; and alſo to believe in his ſpiritual Appearance, Grace and Light, wherewith he hath Inlightened every Man that cometh into the World; and in the Spirit of Truth, which is ſuffici<g ref="char:EOLhyphen"/>ent to lead and guide into all Truth: Alſo living Faith in Chriſt as he died for our Sins, and to reconcile us to God, and roſe again, and is at the Right Hand of God making Inter<g ref="char:EOLhyphen"/>ceſſion
+<pb n="7" facs="tcp:136999:4"/>for us, according to <hi>Rom.</hi> 8.34. is neceſſary to be Preached, with his inward and ſpiritual Appearance, by every true Miniſter of Chriſt, as God ſhall require it by his Spirit, <hi>John</hi> 1.9. <hi>Mat.</hi> 16.13.</p>
+            <p n="10">X. And we believe it is abſolutely needful for every Man and Woman that do profeſs themſelves to be Chriſtians, and hope to be ſaved by our Lord Jeſus Chriſt, to be very care<g ref="char:EOLhyphen"/>ful that they are certain and know in themſelves, that they are true and faithful Witneſſes of their own true and unfeigned Repentance towards God, and that they ſo believe as to have ſaving Faith in our Lord Jeſus Chriſt, and rightly to know what the Apoſtle ſaith, <hi>viz. Not by Works of Righteouſneſs which we have done, but according to his Mercy he ſaved us, by the waſhing of Regeneration and renewing of the Holy Ghost,</hi> Tit. 3.5.</p>
+            <p n="11">XI. We believe, That all that are or ſhall be ſaved in any Age of the World, have their Sins blotted out and forgiven for Chriſt's ſake, and on the account of his moſt holy and per<g ref="char:EOLhyphen"/>fect Obedience unto Death; and what Light and Grace all Men ever did, doth or ſhall receive to the Worlds end, it is given to Men for the Man Chriſt Jeſus his ſake, and by his Purchaſe and Merits, and continual Mediation and Inter<g ref="char:EOLhyphen"/>ceſſion, 1 <hi>Tim.</hi> 2.5.</p>
+            <p n="12">XII. We believe, That Chriſt Jeſus ſhall come again to judge the Quick and the Dead, according to <hi>Act.</hi> 1.11. And that God hath appointed a Day, in the which he will judge the World in Righteouſneſs by the Man whom he hath or<g ref="char:EOLhyphen"/>dained, whereof he hath given aſſurance to all Men, in that he hath raiſed him from the Dead, <hi>Act.</hi> 17.31. but in what manner he ſhall come, we muſt ſubmit to the Pleaſure of the Almighty.</p>
+            <p n="13">XIII. We faithfully believe, That there will be a Reſurre<g ref="char:EOLhyphen"/>ction both of the Juſt and Unjuſt; and if our Hope were only in this Life, we were of all Men moſt miſerable: Chriſt Jeſus ſaith, <hi>That he is the Reſurrection and the Life, and he that believes in him, tho' he were dead, yet ſhall he live; and he that lives and be<g ref="char:EOLhyphen"/>lieves,
+<pb n="8" facs="tcp:136999:5"/>ſhall never die.</hi> We believe, That the deceaſed Saints are at Reſt in the Kingdom; for we do not believe a Purgatory or Place of Cleanſing hereafter; <hi>For as Death leaves, Judgment finds;</hi> but we believe, That there is a Reſurrection of the Body more than what we have already attained, which after the Diſſolution and putting of that which is Corruptible, we ſhall attain to the full Injoyment of that which we now, through Mercy, have the Earneſt of, <hi>Knowing that he which raiſed up our Lord Jeſus, ſhall raiſe us up alſo by Jeſus,</hi> 2 Cor. 4.14.</p>
+            <p n="14">XIV. We believe, That Body that dieth ſhall riſe again, but wonderfully changed; yet ſo far the ſame Body, as it is poſſible for a Natural Body to become a Spiritual Body; <hi>God will give it a Body as it pleaſeth him,</hi> 1 Cor. 15.38. In ſhort, the Reſurrection is a Myſtery too great for the carnal Mind to per<g ref="char:EOLhyphen"/>ceive; and the things of God knows no Man, but the Spirit of God: Let us therefore take the Counſel of an eminent Man; viz. <hi>To be ſolicitous to know the Power and inward Operation, whereby we may be made Sons of God, and attain to the Reſurrection of the Dead, as being Children of God and of the Reſurrection: If Men walk in the true Light, and ſo truly ſerve and pleaſe God here on Earth, they ſhall not need to doubt or diſpute about their future Be<g ref="char:EOLhyphen"/>ing in Heaven; their Buſineſs is to get thither, and God will well accommodate them there; Men ought not to be too curious and ſcru<g ref="char:EOLhyphen"/>tinous in Matters beyond their Reach, as to the manner of their fu<g ref="char:EOLhyphen"/>ture Beings, or how they ſhall be reſerved for eternal Rewards.</hi>
+            </p>
+            <closer>
+               <signed>We are Friends to all that hunger and thirſt after Righte<g ref="char:EOLhyphen"/>ouſneſs, more than after Strife and Contention,
+<list>
+                     <item>
+                        <hi>Thomas Curtis,</hi>
+                     </item>
+                     <item>
+                        <hi>William Soundey,</hi>
+                     </item>
+                     <item>
+                        <hi>Benjamin Coales.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Reading,</hi> 
+                  <date>19th 9th Month, 1696.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
